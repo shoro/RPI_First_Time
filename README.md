@@ -1,10 +1,13 @@
 # RPI First Time
 
-### 1. Update, Upgrade and Reboot
+### Update, Upgrade and Reboot
 ```
 sudo apt update
 sudo apt upgrade -y
 sudo reboot
 ```
 
-### 3
+### Raspi Config
+```
+sudo raspi-config
+```
