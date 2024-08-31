@@ -3,7 +3,7 @@
 ### 1
 ```
 sudo apt update
-sudo apt-upgrade -y
+sudo apt upgrade -y
 sudo reboot
 ```
 
